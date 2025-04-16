@@ -1,0 +1,44 @@
+# --- Global ---
+.DS_Store
+*.log
+*.tmp
+*.user
+*.suo
+
+# --- Node ---
+client/node_modules/
+client/dist/
+
+# --- Client JS/React ---
+client/.env*
+client/npm-debug.log*
+client/yarn-debug.log*
+client/yarn-error.log*
+client/pnpm-debug.log*
+
+# --- Visual Studio ---
+server/bin/
+server/obj/
+server/.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# --- ASP.NET ---
+*.pdb
+*.cache
+*.dbmdl
+*.log
+*.vspscc
+*.vssscc
+*.publishsettings
+*.psess
+*.vsp
+*.vspx
+*.appx
+*.appxbundle
+*.appxupload
+
+# --- Build Results ---
+Debug/
+Release/
