@@ -1,4 +1,4 @@
-TODOApp with frontend and backend. Developed using Vue.js, ASP.NET Core WebAPI and SQL. 
+TODOApp with frontend and backend. Developed using Vue.js, ASP.NET Core WebAPI and Entity Framwork to access SQL-database. 
 
 Unzip and run the application by executing "start-project.cmd" on Windows (or "start-project.sh" on Mac) and accessing localhost:8080
 
